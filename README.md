@@ -16,7 +16,7 @@ then we traverse through the m3 matrix, using two for loops and update the respe
 At last, we print out the resultant matrix m3.Similarly operations like subtraction,multiplication,division and transpose can be performed.
 
 ## ALGORITHM
-a)Matrix multiplication
+a)Matrix multiplication<br>
 1)Start<br>
 2)Ask the user to specify how many rows and columns there are in arrays 1 and 2.<br>
 3)After receiving the user's input for arrays 1 and 2, read it and store the values in r1, c1, r2, and c2.<br>
