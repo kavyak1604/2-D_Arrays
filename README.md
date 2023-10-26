@@ -25,3 +25,17 @@ a)Matrix multiplication<br>
 6)For matrix multiplication compatibility, confirm that the number of rows in array2 (r2) and the number of columns in array1 (c1) are equal. If not, the programme will end and an error message will appear.<br>
 7)Declare a result if the dimensions are appropriate for multiplication.<br>
 8)End<br>
+b)Displaying 2d array<br>
+1)Start<br>
+2)In order to hold the number of rows and columns, respectively, declare integer variables x and y.<br>
+3)Request that the user input the number of rows and columns, then read the values into the variables x and y.<br>
+4)To hold the matrix elements, declare a 2D integer array mat with x rows and y columns.<br>
+5)Iterate through the rows and columns of the matrix using nested loops to input elements<br>
+6)The rows from 0 to x-1 are iterated over by the outer loop (variable i).<br>
+7)The columns from 0 to y-1 are iterated over by the inner loop (variable j).<br>
+8)Give the user a popup to enter the matrix element at location [i][j], then read the input into mat[i][j].<br>
+9)Use nested loops once all elements have been entered to.<br>
+10)End<br>
+
+## CONCLUSION
+Hence in this repository programs like matrix multiplication display and addition were done using 2d arrays.
