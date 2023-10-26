@@ -16,3 +16,12 @@ then we traverse through the m3 matrix, using two for loops and update the respe
 At last, we print out the resultant matrix m3.Similarly operations like subtraction,multiplication,division and transpose can be performed.
 
 ## ALGORITHM
+a)Matrix multiplication
+1)Start<br>
+2)Ask the user to specify how many rows and columns there are in arrays 1 and 2.<br>
+3)After receiving the user's input for arrays 1 and 2, read it and store the values in r1, c1, r2, and c2.<br>
+4)Create a pair of 2D arrays<br>
+5)Iterate through the rows and columns of arrays 1 and 2 using nested loops to input elements.<br>
+6)For matrix multiplication compatibility, confirm that the number of rows in array2 (r2) and the number of columns in array1 (c1) are equal. If not, the programme will end and an error message will appear.<br>
+7)Declare a result if the dimensions are appropriate for multiplication.<br>
+8)End<br>
